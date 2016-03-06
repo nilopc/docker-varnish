@@ -1,6 +1,7 @@
 # Varnish Docker
 [![Image Size](https://img.shields.io/imagelayers/image-size/nilportugues/varnish/latest.svg)](https://imagelayers.io/?images=nilportugues/varnish:latest)
 [![Docker Pulls](https://img.shields.io/docker/pulls/nilportugues/varnish.svg)](https://hub.docker.com/r/nilportugues/varnish/)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://paypal.me/nilportugues)
 
 ## Building the container
 
